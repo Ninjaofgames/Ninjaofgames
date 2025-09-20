@@ -33,5 +33,5 @@
 ---
 
 ## Quote:
-*Allah loves when one of you does a job that he does it in the best way possible.*
-- *Prophet Muhammad ﷺ*
+*Abolish the idea of winning by chance, and claim victory as a logical sequence.*
+ *Jinpachi Ego from Blue Lock*
