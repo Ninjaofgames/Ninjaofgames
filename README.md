@@ -33,5 +33,5 @@
 ---
 
 ## Quote:
-*Abolish the idea of winning by chance, and claim victory as a logical sequence.*
+*Abolish the idea of winning by chance, and claim victory as a logical sequence.* <br>
  *Jinpachi Ego from Blue Lock*
