@@ -15,6 +15,7 @@
 - Game dev
 - Web dev
 - AI engineering
+- Network
 
 ## 🔧 Tech Stack: <br>
 - **Languages:** HTML, CSS, JavaScript, PHP, C#, C
