@@ -18,12 +18,12 @@
 - Network
 
 ## 🔧 Tech Stack: <br>
-- **Languages:** HTML, CSS, JavaScript, PHP, C#, C
+- **Languages:** HTML, CSS, JavaScript, PHP, C#, C, Python, JAVA, React, Django
 - **Tools:** Git, VSCode, Unity2D
 - **Operating Systems:** Windows, Linux
 
 ## 📂 Projects: <br>
-- [Skippi, the offline 2D party game](https://badrr-dev.itch.io/skippi)
+- [Prize Hunter](https://badrr-dev.itch.io/prize-hunter)
 - [Socket in C](https://github.com/Ninjaofgames/Socket-in-C)
 - [Linear algebra library(⚠️Under development)](https://github.com/Ninjaofgames/C-linear-algebra)
 
@@ -34,5 +34,5 @@
 ---
 
 ## Quote:
-*Abolish the idea of winning by chance, and claim victory as a logical sequence.* <br>
- *Jinpachi Ego from Blue Lock*
+*The more you hesitate, the further you fall behind* <br>
+ *Baro Shoei from Blue Lock*
